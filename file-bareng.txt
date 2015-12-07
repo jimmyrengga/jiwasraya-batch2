@@ -3,3 +3,5 @@ ini baris 2 milik jimmy
 Novanto telat datang ke Sidang, dan minta tertutup!!
 
 halo world
+
+ini baris ke tujuh oleh jimmy
