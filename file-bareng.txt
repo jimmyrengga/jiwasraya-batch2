@@ -3,12 +3,7 @@ ini baris 2 milik jimmy
 Novanto telat datang ke Sidang, dan minta tertutup!!
 
 halo world
-<<<<<<< HEAD
+
 sesudah jam 3.45.. 15 menit lagi pulang..
 
-ini baris 8.
-=======
-sesudah jam 3.45.. 15 menit lagi pulang.. 
-
 Setya Novanto harusnya di PECAT..!!
->>>>>>> 2e94670fac4d39f617aba7e836a18fea4a1a726e
