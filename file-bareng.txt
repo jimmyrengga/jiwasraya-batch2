@@ -2,4 +2,9 @@ ini bukan dari jimmy atau pak sumitra
 ini baris 2 milik jimmy
 Novanto telat datang ke Sidang, dan minta tertutup!!
 
+<<<<<<< HEAD
 ini baris ke 5 dari dedi
+=======
+halo world
+sesudah jam 3.45.. 15 menit lagi pulang.. 
+>>>>>>> c9fcb903d2a20a79015ba2e26f4b02bec07d6d17
